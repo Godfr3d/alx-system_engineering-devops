@@ -1,1 +1,1 @@
-a script that create in /tmp/
+script within /tmp/
