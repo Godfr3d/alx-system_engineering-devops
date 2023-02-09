@@ -1,1 +1,1 @@
-script within /tmp/
+move file into directory
