@@ -1,1 +1,1 @@
-script for pathname
+What’s in there
