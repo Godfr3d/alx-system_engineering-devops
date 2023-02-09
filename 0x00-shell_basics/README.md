@@ -1,1 +1,1 @@
-The long format
+Long list hidden files
