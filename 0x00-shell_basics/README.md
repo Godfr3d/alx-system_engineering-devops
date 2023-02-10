@@ -1,1 +1,1 @@
-copying all HTML
+copy all HTMl
