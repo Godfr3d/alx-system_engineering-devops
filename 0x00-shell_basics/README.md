@@ -1,1 +1,1 @@
-Change pwd to previous
+working directory to previous
