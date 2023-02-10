@@ -1,1 +1,1 @@
-Start with upper case
+Deleting files ending ~
