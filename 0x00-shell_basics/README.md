@@ -1,1 +1,1 @@
-working directory to previous
+Hidden files and Parent pwd
