@@ -1,1 +1,1 @@
-current user
+group of curent user
