@@ -1,1 +1,1 @@
-delete first directory
+Change pwd to previous
