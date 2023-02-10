@@ -1,1 +1,1 @@
-Script for iamafile
+ prints the type of the file named iamafile
