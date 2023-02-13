@@ -1,1 +1,1 @@
-Hello World Script
+Confused Smiley Script
