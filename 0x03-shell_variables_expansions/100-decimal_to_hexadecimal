@@ -1,0 +1,2 @@
+#!/bin/bash
+echo 'O base=16;$DECIMAL' | bc 
